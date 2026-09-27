@@ -1,4 +1,5 @@
 # CodeAlpha_DiseasePrediction
+
 ML-based heart disease prediction using UCI medical data with Logistic Regression, SVM, Random Forest, and XGBoost, including risk probability and explainable feature importance.
 
 # Objective
@@ -35,8 +36,19 @@ The original target contains multiple values representing different levels of he
 - `0` → No Heart Disease
 - `1` → Heart Disease Present
 
+# Technologies
+Python
+Pandas
+NumPy
+Scikit-learn
+XGBoost
+Matplotlib
+Seaborn
+Google Colab
+
 # Project Structure
 
+```text
 CodeAlpha_DiseasePrediction/
 │
 ├── dataset/
@@ -46,20 +58,9 @@ CodeAlpha_DiseasePrediction/
 │   ├── heart-disease.cost
 │   ├── heart-disease.delay
 │   ├── heart-disease.expense
-│   ├── heart-disease.group
-│   └── ...
+│   └── heart-disease.group
 │
 ├── CodeAlpha_DiseasePrediction.ipynb
 │
 └── README.md
 
-# Technologies
-
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- XGBoost
-- Matplotlib
-- Seaborn
-- Google Colab
