@@ -37,14 +37,14 @@ The original target contains multiple values representing different levels of he
 - `1` → Heart Disease Present
 
 # Technologies
-Python
-Pandas
-NumPy
-Scikit-learn
-XGBoost
-Matplotlib
-Seaborn
-Google Colab
+▪️Python
+▪️Pandas
+▪️NumPy
+▪️Scikit-learn
+▪️XGBoost
+▪️Matplotlib
+▪️Seaborn
+▪️Google Colab
 
 # Project Structure
 
